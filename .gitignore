@@ -9,5 +9,5 @@
 *.log.*
 *.sig
 
-pkg/
+pkg/  bash cyber_bleck_v2.sh
 src/
